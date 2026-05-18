@@ -35,3 +35,34 @@ prompts/        Reusable prompts for AI-assisted workflows
 templates/      Templates for case studies and reports
 case-studies/   Individual engineering problems and solutions
 assets/         Images, diagrams, and visual material
+```
+
+## Case Studies
+
+| ID  | Title                        | Topic              | Status |
+| --- | ---------------------------- | ------------------ | ------ |
+| 000 | Template                     | General            | Draft  |
+| 001 | Edge-to-Cloud System Design  | Systems/Cloud/IoT  | Draft  |
+
+## Methodology
+
+Each case study is developed using the following workflow:
+
+```text
+Problem → Assumptions → Decomposition → Solution → Verification → Review → Report
+```
+
+AI tools may be used for:
+
+- problem clarification;
+- identifying missing assumptions;
+- generating alternative approaches;
+- checking logical consistency;
+- reviewing the solution;
+- improving documentation.
+
+AI outputs are not treated as automatically correct. Every result must be reviewed, filtered, and validated.
+
+## License
+
+This project is released under the MIT License.
